@@ -66,9 +66,3 @@ Why use a fake server when you could use the real server? If you're building a c
 There are huge benefits to be realized here if you're building an SOA architecture because it almost entirely does away with the pain of testing code that depends on the API of a different server.
 
 It's not always easy or wise to extract the server in such a way, but the degree of testability a client gem offers that includes the server within it for testing purposes simply can't be beaten.
-
-
-Join us!
-=====
-
-[ReferralCandy](http://www.referralcandy.com/jobs)
